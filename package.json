@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@babel/core": "~7.2.0",
-    "@babel/preset-env": "~7.2.0"
+    "@babel/preset-env": "~7.2.0",
+    "require-extension-hooks": "github:distil/require-extension-hooks"
   }
 }
